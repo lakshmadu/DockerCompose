@@ -1,0 +1,12 @@
+D:\DockerCompose\NoteAPI.Models\bin\Debug\net5.0\NoteAPI.Models.deps.json
+D:\DockerCompose\NoteAPI.Models\bin\Debug\net5.0\NoteAPI.Models.dll
+D:\DockerCompose\NoteAPI.Models\bin\Debug\net5.0\ref\NoteAPI.Models.dll
+D:\DockerCompose\NoteAPI.Models\bin\Debug\net5.0\NoteAPI.Models.pdb
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\NoteAPI.Models.csproj.AssemblyReference.cache
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\NoteAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\NoteAPI.Models.AssemblyInfoInputs.cache
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\NoteAPI.Models.AssemblyInfo.cs
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\NoteAPI.Models.csproj.CoreCompileInputs.cache
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\NoteAPI.Models.dll
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\ref\NoteAPI.Models.dll
+D:\DockerCompose\NoteAPI.Models\obj\Debug\net5.0\NoteAPI.Models.pdb
